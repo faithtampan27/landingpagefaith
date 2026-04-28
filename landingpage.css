@@ -1,0 +1,90 @@
+head {
+    background-color: white;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.judul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    background-color: rgb(24, 18, 18);
+    color: azure;
+    text-decoration: none;
+}
+
+.navigasi a {
+    color: rgb(234, 239, 243);
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap: 15px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sambutan {
+    font-size: 15px;
+}
+
+.judul img {
+    height: 40px;
+    border-radius: 900px;
+}
+
+.map-container {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+iframe {
+    width: 100%;
+    border: 2px solid snow;
+}
+
+footer {
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+}
+
+footer a {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap: 15px;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+a:hover {
+    color: grey;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.keren img {
+    text-align: center;
+    border: 12px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.keren a {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    gap: 15px;
+    text-decoration: none;
+    margin-right: 30px;
+}
